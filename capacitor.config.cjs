@@ -1,0 +1,5 @@
+module.exports = {
+  appId: "com.aarushfuel.station",
+  appName: "Aarush Fuel Station",
+  webDir: "dist",
+};
